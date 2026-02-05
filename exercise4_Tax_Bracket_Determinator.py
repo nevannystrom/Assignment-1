@@ -1,3 +1,6 @@
+# Exercise 4: Tax Bracket Determiner
+# This program uses conditionals and functions returning bool/values
+
 def get_tax_bracket(income):
     if income < 0:
         return "Invalid income"
