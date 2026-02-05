@@ -1,3 +1,6 @@
+# Exercise 5: Product Category Matcher
+# This program uses match-case for product categorization
+
 def categorize_product(product_name):
     # clean input
     name = product_name.strip().lower()
