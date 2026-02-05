@@ -1,3 +1,6 @@
+# Bonus Challenge: Integrated Decision Tool
+# Combines all concepts: strings, functions, conditionals, and match-case
+
 # helper function (returns True/False)
 def is_profitable(revenue, cost):
     return revenue > cost
