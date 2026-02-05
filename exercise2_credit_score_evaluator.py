@@ -1,3 +1,6 @@
+# Exercise 2: Credit Score Evaluator
+# This program uses conditionals to evaluate credit scores
+
 def main():
     score = int(input("What's your credit score? ").strip())
 
