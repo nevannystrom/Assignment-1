@@ -1,3 +1,6 @@
+# Exercise 3: Customer Greeting Formatter
+# This function formats customer greetings using strings and functions
+
 def format_greeting(name, title="Customer"):
     # Clean extra spaces
     clean = " ".join(name.split())
